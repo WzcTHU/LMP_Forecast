@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}符号说明}{2}
+\contentsline {section}{\numberline {2}特征选择与误差评估}{2}
+\contentsline {section}{\numberline {3}数据选取与划分}{2}
+\contentsline {section}{\numberline {4}模型评估}{2}
+\contentsline {subsection}{\numberline {4.1}MLP}{2}
+\contentsline {subsection}{\numberline {4.2}SVM}{4}
+\contentsline {subsection}{\numberline {4.3}RF}{5}
+\contentsline {subsection}{\numberline {4.4}LGBM}{6}
+\contentsline {subsection}{\numberline {4.5}XGB}{7}
+\contentsline {subsection}{\numberline {4.6}STACK}{8}
+\contentsline {section}{\numberline {5}尖峰优化}{9}
